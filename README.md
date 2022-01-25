@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kipkemoi Hillary
-- 👀 I’m interested in Web dev and mobile app dve
+- 👋 Hi, I’m @Kipkemoi Hillary a backend python Developer
+- 👀 I’m interested in Web dev and Mobile Dev
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on Machine learning
 - 📫 How to reach me ...
